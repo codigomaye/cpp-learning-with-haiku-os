@@ -1,0 +1,1 @@
+# Whenever your do division with integer, the compiler will drop fractional results.
